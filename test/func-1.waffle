@@ -1,0 +1,4 @@
+def fun (x:Bool, y:Bool)->Bool=if x then true else false;
+print fun(false,true);
+print typeof fun(false,true);
+
